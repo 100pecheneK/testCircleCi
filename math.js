@@ -4,5 +4,8 @@ function sum(a, b) {
 function diff(a, b) {
   return a - b
 }
+function div(a, b) {
+  return a / b
+}
 
-module.exports = { sum, diff }
+module.exports = { sum, diff, div }
