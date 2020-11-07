@@ -1,3 +1,3 @@
-const { sum } = require('./math')
+const { sum } = require('./src/math/math')
 
-console.log('Сумма 1 и 3 =', sum(1, 3))
+console.log('Сумма 2 и 2 =', sum(2, 2))
